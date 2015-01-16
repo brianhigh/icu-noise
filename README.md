@@ -18,7 +18,7 @@ The intervention is the third part of a behavior modification intervention to re
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/brianhigh/HW1_brian_high">
+     href="https://github.com/brianhigh/icu-noise">
     <span property="dct:title">Brian High</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">icu-noise</span>.
