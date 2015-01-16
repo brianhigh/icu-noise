@@ -6,7 +6,7 @@ This repository will be used for collaboration on the data management aspects of
 
 ## Research Project Description
 
-The intervention is the third part of a behavior modification intervention to reduce noise in the ICU. The interventions consists of new signage, re-educating staff, encouraging staff to educate visitors, designating “Quite Time” champions as resources for the staff, encouraging the staff to be creative to decrease the noise in the unit to promote sleep for the patients they are caring for and to share their successes. 
+The intervention is the third part of a behavior modification intervention to reduce noise in the ICU. The interventions consist of new signage, re-educating staff, encouraging staff to educate visitors, designating “Quiet Time” champions as resources for the staff, encouraging the staff to be creative to decrease the noise in the unit to promote sleep for the patients they are caring for and to share their successes. 
 
 ## License
 
